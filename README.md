@@ -2,10 +2,10 @@
 My name is Callum-James Smith; I am a 3rd year student at the university of essex; studying computer science.
 I'm a self-tought game developer 🕹, mostly specialising in Unity, Java and C#. I also create websites 🐱‍🐉, and mess around with linux 🐧.
 
-- 🔭 I’m currently working on [MicroRPG](https://github.com/sudo-make/micro-rpg)
+- 🔭 I’m currently working on my Indivudual Capstone Project
 - 🌱 I’m currently learning MonoGame; in prepairation for my 3rd year capstone project. A 2D isometric RPG game of some description.
 - 🤔 I’m looking for help with MonoGame things...
-- 📫 How to reach me: Best way is via [📧 csmith99@protonmail.com](mailto:csmith99@protonmail.com)
+- 📫 How to reach me: Best way is via [📧 Callum@sudo-make.co.uk](mailto:Callum@sudo-make.co.uk)
 - ⚡ Fun fact: I love dragons! 🐉
 
 #### Status 📢
