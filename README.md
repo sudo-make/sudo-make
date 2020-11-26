@@ -9,7 +9,7 @@ I'm a self-tought game developer 🕹, mostly specialising in Unity, Java and C#
 - ⚡ Fun fact: I love dragons! 🐉
 
 #### Status 📢
-Currently looking for a year long internship/placemement in the game development industry; [contact me](mailto:csmith99@protonmail.com) for any queries.
+Currently looking for a graduate position in game programming; [feel free to contact me](mailto:csmith99@protonmail.com) with any queries.
 
 </br>
 </br>
