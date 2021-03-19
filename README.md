@@ -5,7 +5,7 @@ I'm a self-tought game developer 🕹, mostly specialising in Unity, Java and C#
 - 🔭 I’m currently working on my Indivudual Capstone Project
 - 🌱 I’m currently learning game artifical intelligence; as part of my 3rd-year Capstone project; a 2D RPG game made with [MonoGame](https://www.monogame.net)
 - 🤔 I’m looking for help with MonoGame things...
-- 📫 How to reach me: Best way is via [📧 Callum@sudo-make.co.uk](mailto:Callum@sudo-make.co.uk)
+- 📫 How to reach me: Best way is via [📧 Callum@sudo-make.co.uk](mailto:csmith99@protonmail.com)
 - ⚡ Fun fact: I love dragons! 🐉
 
 #### Status 📢
